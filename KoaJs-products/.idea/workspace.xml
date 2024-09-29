@@ -6,20 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fe38cebe-3b39-46d5-bbf4-723cbd495b31" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-polaris-products/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-polaris-products/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-polaris-products/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-polaris-products/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-polaris-products/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-polaris-products/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-polaris-products/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../react-polaris-products/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-polaris-products/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-polaris-products/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-polaris-products/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-polaris-products/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-polaris-products/src/api/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-polaris-products/src/api/products.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-polaris-products/src/components/ProductGrid.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-polaris-products/src/components/ProductGrid.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-polaris-products/src/hooks/useProducts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-polaris-products/src/hooks/useProducts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-polaris-products/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react-polaris-products/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-polaris-products/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-polaris-products/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-polaris-products/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-polaris-products/src/reportWebVitals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-polaris-products/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-polaris-products/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-polaris-todo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-polaris-todo/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sonnguyen1812"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sonnguyen1812/avada-intern-training-week-2.git",
+    "accountId": "4803e0c3-42b1-412d-8d42-f5ee4b524488"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -56,7 +54,7 @@
     "Notification.DoNotAsk-Vcs Notifications": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "S:/WorkSpace/WebstormProjects/avada-intern-training-week-2/KoaJs-products",
     "node.js.detected.package.eslint": "true",
@@ -108,6 +106,7 @@
       <workItem from="1727057148333" duration="9075000" />
       <workItem from="1727144649055" duration="18284000" />
       <workItem from="1727234871689" duration="5951000" />
+      <workItem from="1727607374035" duration="1804000" />
     </task>
     <servers />
   </component>
